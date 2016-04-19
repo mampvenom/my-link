@@ -2,12 +2,12 @@
 
 ## Android
 
-### [Colors](pages/android/Colors.md)
+- [Colors](pages/android/Colors.md)
 
-### [Icons](pages/android/Icons.md)
+- [Icons](pages/android/Icons.md)
 
-### [Image Views](pages/android/ImageViews.md)
+- [Image Views](pages/android/ImageViews.md)
 
-### [Tabs](pages/android/Tabs.md)
+- [Tabs](pages/android/Tabs.md)
 
-### [UI/UX](pages/android/UI-UX.md)
+- [UI/UX](pages/android/UI-UX.md)
