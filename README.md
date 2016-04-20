@@ -4,6 +4,8 @@
 
 - [**Colors**](pages/android/Colors.md)
 
+- [**Docs**](pages/android/Docs.md)
+
 - [**Icons**](pages/android/Icons.md)
 
 - [**Image Views**](pages/android/ImageViews.md)
