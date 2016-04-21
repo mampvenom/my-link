@@ -17,6 +17,8 @@
 
 ## Go
 
+- [**Docs**](pages/go/Docs.md)
+
 - [**Frameworks**](pages/go/Frameworks.md)
 
 ## MongoDB
