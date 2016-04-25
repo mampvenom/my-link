@@ -19,7 +19,7 @@
 
 - [**Docs**](pages/go/Docs.md)
 
-- [**Frameworks**](pages/go/Frameworks.md)
+- [**Web**](pages/go/Web.md)
 
 ## MongoDB
 
