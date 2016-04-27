@@ -1,4 +1,4 @@
-Button
+Buttons
 =======
 Name | License | Demo
 --- | --- | ---
