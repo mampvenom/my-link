@@ -2,6 +2,8 @@
 
 ## Android
 
+- [**Buttons**](pages/android/Buttons.md)
+
 - [**Colors**](pages/android/Colors.md)
 
 - [**Docs**](pages/android/Docs.md)
