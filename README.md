@@ -12,6 +12,8 @@
 
 - [**Image Views**](pages/android/ImageViews.md)
 
+- [**Network**](pages/android/Network.md)
+
 - [**Tabs**](pages/android/Tabs.md)
 
 - [**UI/UX**](pages/android/UI-UX.md)
