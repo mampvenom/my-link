@@ -8,6 +8,8 @@
 
 - [**Docs**](pages/android/Docs.md)
 
+- [**Fonts**](pages/android/Fonts.md)
+
 - [**Icons**](pages/android/Icons.md)
 
 - [**Image Views**](pages/android/ImageViews.md)
