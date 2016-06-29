@@ -2,6 +2,8 @@
 
 ## Android
 
+- [**Animations**](pages/android/Animations.md)
+
 - [**Buttons**](pages/android/Buttons.md)
 
 - [**Colors**](pages/android/Colors.md)
